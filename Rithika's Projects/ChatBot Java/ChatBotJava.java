@@ -10,9 +10,6 @@ import javax.swing.JTextField;
 
 class Chatbot extends JFrame {
 	
-	/**
-	 * 
-	 */
 	private static final long serialVersionUID = 1L;
 	private JTextArea ca= new JTextArea();
 	private JTextField cf=new JTextField();                                  
